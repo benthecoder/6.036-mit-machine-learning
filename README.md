@@ -20,3 +20,4 @@ Code and exercises from Introduction to Machine Learning (6.036) at MIT
 ## Resources
 - [Python Numpy Tutorial from cs231n](https://cs231n.github.io/python-numpy-tutorial/)
 - [Linear algebra and calculus refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus)
+- [NumPy tutorial by Made with ML](https://madewithml.com/courses/ml-foundations/numpy/)
